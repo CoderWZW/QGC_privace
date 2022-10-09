@@ -1,6 +1,6 @@
 # QGC
 
-The implement of QGC is on <a href="https://github.com/Coder-Yu/SELFRec">A/SELFRec</a>. <br>
+The implement of QGC is on <a href="https://github.com/Coder-Yu/SELFRec">SELFRec</a>. <br>
 
 <h2>Requirements</h2>
 	
